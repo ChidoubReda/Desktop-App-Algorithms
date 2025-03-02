@@ -1,8 +1,8 @@
-Operational Research - Optimization & Decision Support System
+###Operational Research - Optimization & Decision Support System
 
 A Tkinter-based graphical application designed to provide powerful optimization tools and decision-making support. With an intuitive and modern interface, this project integrates networkx and matplotlib to deliver a seamless user experience.
 
-🚀 Key Features
+###🚀 Key Features
 
 ✅ User-friendly and interactive GUI built with Tkinter
 ✅ Advanced optimization algorithms: Ford-Fulkerson, Dijkstra, Bellman-Ford, and Kruskal
@@ -16,7 +16,7 @@ A powerful tool for exploring optimization techniques and decision-making strate
 
 
 
-How to Run the Desktop Application
+###How to Run the Desktop Application
 To use the executable version of the application, follow these steps:
 
 Download or Clone the Repository
@@ -25,7 +25,7 @@ If you haven't already, clone the repository using the following command:
 bash
 Copier
 Modifier
-git clone https://github.com/YourRepoName.git
+'''git clone [https://github.com/YourRepoName.git](https://github.com/ChidoubReda/Desktop-App-Algorithms.git)'''
 Alternatively, download the ZIP file from GitHub and extract it to a folder of your choice.
 Navigate to the Application Folder
 
