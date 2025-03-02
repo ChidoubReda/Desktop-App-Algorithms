@@ -24,10 +24,14 @@ Follow these steps to run the executable version of the application:
   ```bash
   git clone https://github.com/ChidoubReda/Desktop-App-Algorithms.git
 Alternatively, download the ZIP file from GitHub and extract it.
-2️⃣ Navigate to the Application Folder
+
+
+### **2️⃣ Navigate to the Application Folder**
 Open File Explorer (Windows), Finder (Mac), or your preferred file manager.
 Locate the folder where you cloned or extracted the repository.
-3️⃣ Run the Executable File
+
+
+### **3️⃣ Run the Executable File**
 Inside the project folder, look for the executable file (e.g., app.exe for Windows or app for macOS/Linux).
 Double-click on the executable to launch the application.
 ⚡ That's it!
