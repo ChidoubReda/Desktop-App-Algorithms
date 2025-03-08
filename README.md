@@ -4,7 +4,20 @@ A **Tkinter-based** graphical application designed to provide **powerful optimiz
 
 ## 🚀 **Key Features**  
 - ✅ **User-friendly and interactive GUI** built with `Tkinter`  
-- ✅ **Advanced optimization algorithms**: Ford-Fulkerson, Dijkstra, Bellman-Ford, and Kruskal  
+- ✅ **Advanced optimization algorithms**:  
+  - **Graph Theory & Shortest Path Algorithms**:  
+    - Dijkstra  
+    - Bellman-Ford  
+    - Kruskal  
+    - Ford-Fulkerson  
+  - **Transportation & Flow Optimization**:  
+    - Nord-Ouest  
+    - Moindre Coût  
+    - Stepping Stone  
+    - Potentiel Metra  
+  - **Graph Coloring & Scheduling**:  
+    - Welsh-Powell  
+
 - ✅ **Real-time network visualization** using `networkx`  
 - ✅ **Dynamic data plotting** with `matplotlib`  
 - ✅ **Sleek and modern UI** for enhanced usability  
@@ -23,6 +36,7 @@ Follow these steps to run the executable version of the application:
 - **Clone the repository** using the following command:  
   ```bash
   git clone https://github.com/ChidoubReda/Desktop-App-Algorithms.git
+
 Alternatively, download the ZIP file from GitHub and extract it.
 
 
